@@ -75,7 +75,7 @@
 ## 🔗 Let's Stay Connected
 
 - 📧 **Email:** [Contact me](mailto:kck.rdvan@gmail.com)
-- 💼 **GitHub:** [Ridvan Kocuk](https://github.com/rdvankck)
+- 💼 **GitHub:** [Rıdvan Koçuk](https://github.com/rdvankck)
 
 ---
 
