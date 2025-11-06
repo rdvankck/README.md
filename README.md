@@ -60,7 +60,6 @@
 
 - 📧 **Email:** [Contact me](mailto:kck.rdvan@gmail.com)
 - 💼 **GitHub:** [Ridvan Kocuk](https://github.com/rdvankck)
-- 🌐 **Portfolio:** [Your Portfolio Link]
 
 ---
 
