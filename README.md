@@ -83,4 +83,8 @@
 
 ---
 
+<div align="center">
+
 *"Always diving into new tech to stay ahead."*
+
+</div>
