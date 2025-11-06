@@ -1,9 +1,5 @@
 # Hi, I'm Ridvan! 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
-</div>
-
 ## 🚀 About Me
 
 👋 **Name:** Rıdvan Koçuk  
@@ -27,7 +23,7 @@
 🎓 **Background:** Professional Developer based in Istanbul, passionate about creating innovative solutions and exploring cutting-edge technologies to build smarter applications.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer GIF" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"/>
 </div>
 
 ## 🛠️ Technology Arsenal
